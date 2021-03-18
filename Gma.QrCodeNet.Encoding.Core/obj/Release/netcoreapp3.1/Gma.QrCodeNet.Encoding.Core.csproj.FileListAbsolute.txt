@@ -1,0 +1,9 @@
+C:\Working Directories\qrcodenet\Gma.QrCodeNet.Encoding.Core\obj\Release\netcoreapp3.1\Gma.QrCodeNet.Encoding.Core.csprojAssemblyReference.cache
+C:\Working Directories\qrcodenet\Gma.QrCodeNet.Encoding.Core\obj\Release\netcoreapp3.1\Gma.QrCodeNet.Encoding.Core.AssemblyInfoInputs.cache
+C:\Working Directories\qrcodenet\Gma.QrCodeNet.Encoding.Core\obj\Release\netcoreapp3.1\Gma.QrCodeNet.Encoding.Core.AssemblyInfo.cs
+C:\Working Directories\qrcodenet\Gma.QrCodeNet.Encoding.Core\obj\Release\netcoreapp3.1\Gma.QrCodeNet.Encoding.Core.csproj.CoreCompileInputs.cache
+C:\Working Directories\qrcodenet\Gma.QrCodeNet.Encoding.Core\bin\Release\netcoreapp3.1\Gma.QrCodeNet.Encoding.Core.deps.json
+C:\Working Directories\qrcodenet\Gma.QrCodeNet.Encoding.Core\bin\Release\netcoreapp3.1\Gma.QrCodeNet.Encoding.Core.dll
+C:\Working Directories\qrcodenet\Gma.QrCodeNet.Encoding.Core\bin\Release\netcoreapp3.1\Gma.QrCodeNet.Encoding.Core.pdb
+C:\Working Directories\qrcodenet\Gma.QrCodeNet.Encoding.Core\obj\Release\netcoreapp3.1\Gma.QrCodeNet.Encoding.Core.dll
+C:\Working Directories\qrcodenet\Gma.QrCodeNet.Encoding.Core\obj\Release\netcoreapp3.1\Gma.QrCodeNet.Encoding.Core.pdb

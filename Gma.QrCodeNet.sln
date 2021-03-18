@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{6170E25C-9111-4B45-9CED-57ED4D60EE22}"
+	ProjectSection(SolutionItems) = preProject
+		lib\nunit.framework.dll = lib\nunit.framework.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gma.QrCodeNet.Encoding.Core", "Gma.QrCodeNet.Encoding.Core\Gma.QrCodeNet.Encoding.Core.csproj", "{8BEA49D2-23AA-44C2-B533-569F86B187FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Debug|ARM.Build.0 = Debug|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Debug|x64.Build.0 = Debug|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Debug|x86.Build.0 = Debug|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Release|ARM.ActiveCfg = Release|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Release|ARM.Build.0 = Release|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Release|x64.ActiveCfg = Release|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Release|x64.Build.0 = Release|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Release|x86.ActiveCfg = Release|Any CPU
+		{8BEA49D2-23AA-44C2-B533-569F86B187FC}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91F62EC9-BF75-4159-8C39-BA983821F006}
+	EndGlobalSection
+EndGlobal
